@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vickyesantillan
-- 👀 I’m learning Python!
+- 👀 I’m learning to code!
 - 📫 How to reach me vesantillan@live.com
 
 <!---
